@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Indra Santosa",
   "license": "MIT",
+  "scripts": {
+    "test": "echo 'testing'"
+  },
   "dependencies": {
     "express": "^4.16.1"
   }
