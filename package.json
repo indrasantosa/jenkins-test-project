@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-test-project",
+  "version": "1.0.0",
+  "description": "Jenkins test project",
+  "main": "index.js",
+  "author": "Indra Santosa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
